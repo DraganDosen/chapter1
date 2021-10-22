@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Default suite" guice-stage="DEVELOPMENT">
+
+ <test name="A_Test" verbose="2">
+    <classes>
+      <class name="RightAboveTest"/>
+    </classes>
+  </test> 
+  
+  <test name="E_Test" verbose="2">
+    <classes>
+      <class name="MenuButtonsTest"/>
+    </classes>
+   </test>
+     
+   <test name="C_Test" verbose="2">
+    <classes>
+      <class name="MainPageTest"/>
+    </classes>
+ </test>
+     
+  <test name="D_Test" verbose="2">
+    <classes>
+      <class name="ProductTest"/>
+    </classes>
+</test>
+     
+  
+  <!-- Default test -->
+</suite> <!-- Default suite -->

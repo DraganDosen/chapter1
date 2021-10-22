@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="7" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-21T12:25:31Z" name="Default suite" finished-at="2021-10-21T12:26:00Z" duration-ms="28995">
+    <groups>
+    </groups>
+    <test started-at="2021-10-21T12:25:31Z" name="Default test" finished-at="2021-10-21T12:26:00Z" duration-ms="28995">
+      <class name="MenuButtonsTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:MenuButtonsTest@44d52de2]" started-at="2021-10-21T14:25:31Z" name="beforeMethod" finished-at="2021-10-21T14:25:49Z" duration-ms="18105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="menuServicesDataCenterCare()[pri:4, instance:MenuButtonsTest@44d52de2]" started-at="2021-10-21T14:25:49Z" name="menuServicesDataCenterCare" finished-at="2021-10-21T14:26:00Z" duration-ms="10674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuServicesDataCenterCare -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:MenuButtonsTest@44d52de2]" started-at="2021-10-21T14:26:00Z" name="afterMethod" finished-at="2021-10-21T14:26:00Z" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- MenuButtonsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
